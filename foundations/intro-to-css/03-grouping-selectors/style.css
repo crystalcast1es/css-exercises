@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+button {
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+}
+
+.button2 {
+    background-color: yellow;
+    color: black;
+}
