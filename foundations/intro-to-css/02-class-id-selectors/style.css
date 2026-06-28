@@ -1,1 +1,26 @@
 /* Add CSS Styling */
+p {
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.class {
+    font-size: 16px;
+}
+
+.cooler_class {
+    font-size: 32px;
+}
+
+.another_class {
+    font-size: 20px;
+}
+
+#one_id {
+    font-size: 48px;
+    color: blue;
+}
+
+#another_id {
+    font-size: 24px;
+    background-color: rgba(0, 255, 0, 0.3);
+}
